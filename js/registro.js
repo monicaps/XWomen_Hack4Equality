@@ -80,7 +80,7 @@ function registrar(){
 
 	if (nombre!==''||apellidos!==''||edad!==''||username!==''||password!=='') {
 		$.ajax({
-        	url: 'php/prueba.php',
+        	url: 'php/registro.php',
         	type: 'POST',
         	data: {'nombres':nombre, 'apellidos':apellidos,'edad':edad,'paisOrigen':pais,'estadoOrigen':estado,'genero':genero,'sexo':sexo,'pronombre':pronombre,'user':username,'password':password,'fecha':fecha_corta},
         	success: function(response) {
