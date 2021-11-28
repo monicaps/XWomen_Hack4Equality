@@ -1,18 +1,26 @@
 #  Hack For Equality
-## 1. Nombre del Proyecto 
-### Hand Up: Inclusión para todxs.
+> Investigación y comunicación en la comunidad LGBTQ+ y organizaciones de apoyo a personas con discapacidad.
+
+## Nombre del Proyecto 
+### Hand Up: Inclusión para todxs
 <img src="/resources/HandUp.png" alt="handup" width="300" height="300"/>
 
-## 2. Resumen
-Hand Up: Inclusión para todxs es una red social que ofrece servicios para que las personas se conecten, creen comunidades y alianzas para iniciativas compartidas y colaboren en pro de sectores discriminados. Así como la creación un espacio seguro de convivencia, inclusión e igualdad de oportunidades.
-## 3. Descripción detallada ⚙️
-## 4. Azure y Tecnologías Web 🛠️
+*Hand Up: Inclusión para todxs* es una red social que ofrece un entorno de networking seguro y libre de heaters para que todxs aquellxs que se hayan sentido inseguros por algún otro medio, encuentren un sitio donde puedan conectarse, hacer comunidad y colaboren en pro de sectores discriminados. Así mismo, pone a disposición un espacio seguro donde temas como inclusión y equidad son los pilares de desarrollo. Además, la red social de Hand Up permite el acceso no solo a personas de la comunidad LGBTQ+, sino que se planea interactuar con aquellos de capacidades diferentes. Permite la interacción entre usuarios, cuenta con un chat Bot programado para tener una conversación rica en conocimiento sobre temas de la comunidad LGBTQ+ y que los usuarios puedan sentirse con la libertad de aclarar dudas sin temor a ser juzgados. El carrusel de imágenes dentro de Hand Up permite al usuario mantenerse al tanto de actualizaciones dentro de la comunidad y finalmente, se trabaja en el desarrollo de lenguaje de voz-pictograma para interactuar con usuarios receptores de TEA. 
 
-* _App service_ - application deployment + page link
-* _Azure Database for MySQL_ 
-* _Web Technologies_ - JavaScript, JQuery, HTML, CSS
+## Online ⚙️
+_Puedes visitar Hand Up a través del siguiente enlace:_
 
-## 5. Recursos 🚀
+*
+
+
+## Herramientas de desarrollo 🛠️
+
+* [App service] - Despliegue de aplicación
+* [Azure Database for MySQL] - Base de Datos
+* [Tecnologías web] - JavaScript, JQuery, HTML, CSS
+* [QnA Maker](https://www.qnamaker.ai/) - Construcción de Bot
+
+## Recursos 🚀
 
 * https://chingaledarling.com/2019/06/28/organizaciones-que-apoyan-la-agenda-lgbt-en-mexico/
 * https://www.prideconnectionmexico.com/
@@ -25,7 +33,7 @@ Hand Up: Inclusión para todxs es una red social que ofrece servicios para que l
 * https://www.onu.org.mx/wp-content/uploads/2020/02/SPANISH_LGBTI_index.pdf
 * https://www.inegi.org.mx/programas/enadis/2017/default.html#Documentacion
 
-## 6. Autoras ✒️
+## Autoras ✒️
 
 * **Mónica Portillo** - *Web development, Design, Documentation* -  [Moni Portillo](https://github.com/monicaps)
 * **Estefanía Estrada** - *Azure Database Management, Research* -  [Fany Estrada](https://github.com/FanyEstrada)
@@ -33,6 +41,9 @@ Hand Up: Inclusión para todxs es una red social que ofrece servicios para que l
 * **Alejandra Castillo** - *Documentation, Research* - [Ale Castillo](https://github.com/aleepsy)
 * **Jimena Álvarez** - *Research, Science, Documentation* - [Jime Álvarez](https://github.com/5inope)
 
+##
+
 Consulta Términos y Condiciones y Aviso de Privacidad sobre el uso de Hand Up [aquí.](https://stdntpartners-my.sharepoint.com/:w:/g/personal/alejandra_perez_studentambassadors_com/EepzOuYZT_5Egz8CcuiucHEBZWlrwv2ggspzAxyg1uCjRw?e=0DxREY)
 
+##
 With ❤️ by **X-Women** Team
