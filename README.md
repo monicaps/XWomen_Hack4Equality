@@ -1,6 +1,8 @@
 #  Hack For Equality
 ## 1. Nombre del Proyecto 
 ### Hand Up: Inclusión para todxs.
+<img src="/resources/HandUp.png" alt="handup" width="300" height="300"/>
+
 ## 2. Resumen
 Hand Up: Inclusión para todxs es una red social que ofrece servicios para que las personas se conecten, creen comunidades y alianzas para iniciativas compartidas y colaboren en pro de sectores discriminados. Así como la creación un espacio seguro de convivencia, inclusión e igualdad de oportunidades.
 ## 3. Descripción detallada ⚙️
