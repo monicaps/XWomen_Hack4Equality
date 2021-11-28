@@ -10,7 +10,9 @@
 _Puedes visitar Hand Up a través del siguiente enlace:_
 
 *
+_También puedes conocer un poco más acerca de HandUp en el sig. enlace:
 
+*[¿Qué es Hand Up?: Conce más sobre esta iniciativa](https://www.canva.com/design/DAExBavy0Ak/on21lI4Y70LZVbezNz0UAQ/view?utm_content=DAExBavy0Ak&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
 
 ## Herramientas de desarrollo 🛠️
 
@@ -36,7 +38,7 @@ _Puedes visitar Hand Up a través del siguiente enlace:_
 ## Autoras ✒️
 
 * **Mónica Portillo** - *Web development, Design, Documentation* -  [Moni Portillo](https://github.com/monicaps)
-* **Estefanía Estrada** - *Azure Database Management, Research* -  [Fany Estrada](https://github.com/FanyEstrada)
+* **Estefanía Estrada** - *Azure Database Management and Design, Research* -  [Fany Estrada](https://github.com/FanyEstrada)
 * **Elizabeth Lucas** - *Azure Bot Service development, Research* -  [Lizzy Lucas](https://github.com/LizzyLucas)
 * **Alejandra Castillo** - *Documentation, Research* - [Ale Castillo](https://github.com/aleepsy)
 * **Jimena Álvarez** - *Research, Science, Documentation* - [Jime Álvarez](https://github.com/5inope)
