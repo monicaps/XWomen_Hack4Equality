@@ -31,5 +31,6 @@ Hand Up: Inclusión para todxs es una red social que ofrece servicios para que l
 * **Alejandra Castillo** - *Documentation, Research* - [Ale Castillo](https://github.com/aleepsy)
 * **Jimena Álvarez** - *Research, Science, Documentation* - [Jime Álvarez](https://github.com/5inope)
 
-Consulta términos y Condiciones y Aviso de Privacidad sobre [Hand Up](https://stdntpartners-my.sharepoint.com/:w:/g/personal/alejandra_perez_studentambassadors_com/EepzOuYZT_5Egz8CcuiucHEBZWlrwv2ggspzAxyg1uCjRw?e=0DxREY)
+Consulta Términos y Condiciones y Aviso de Privacidad sobre el uso de Hand Up [aquí.](https://stdntpartners-my.sharepoint.com/:w:/g/personal/alejandra_perez_studentambassadors_com/EepzOuYZT_5Egz8CcuiucHEBZWlrwv2ggspzAxyg1uCjRw?e=0DxREY)
+
 With ❤️ by **X-Women** Team
