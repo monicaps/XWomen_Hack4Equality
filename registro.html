@@ -45,18 +45,18 @@
         </div>
         <div class="col-md-4" id="divEstado">
           <label for="estado" class="form-label">Estado</label>
-          <input type="text" id="estadoText" class="form-control">
+          <input type="text" id="estadoText" class="form-control" placeholder="Ibagué">
         </div>
         <div class="col-md-2">
-          <label for="inputZip" class="form-label">Edad</label>
-          <input type="text" class="form-control" id="inputZip">
+          <label for="edad" class="form-label">Edad</label>
+          <input type="text" class="form-control" id="edad" placeholder="19">
         </div>
         <div class="col-md-4">
           <label for="genero" class="form-label">Género</label>
           <select id="selectGenero" class="form-select">
             <option selected>Seleccione una opción</option>
-            <option value='1'>Masculino</option>
-            <option value='2'>Femenino</option>
+            <option value='1'>Femenino</option>
+            <option value='2'>Masculino</option>
             <option value='3'>No Binario</option>
             <option value='4'>Género Fluido</option>
             <option value='5'>Bigénero</option>
@@ -68,8 +68,8 @@
           <label for="sexo" class="form-label">Sexo</label>
           <select id="selectSexo" class="form-select">
             <option selected>Seleccione una opción</option>
-            <option value='1'>Hombre</option>
-            <option value='2'>Mujer</option>
+            <option value='1'>Mujer</option>
+            <option value='2'>Hombre</option>
             <option value='3'>Intersexo</option>
           </select>
         </div>
@@ -85,14 +85,14 @@
         </div>
         <div class="col-md-6">
           <label for="user" class="form-label">Nombre de Usuario</label>
-            <input type="text" class="form-control" id="user" maxlength="12">
+            <input type="text" class="form-control" id="user" maxlength="12" placeholder="andrest">
         </div>
         <div class="col-md-6">
           <label for="password" class="form-label">Contraseña</label>
           <input type="password" class="form-control" id="password" maxlength="12">
         </div>
 
-        <button class="w-100 btn btn-lg btn-primary" type="submit">Registrar</button>
+        <button class="w-100 btn btn-lg btn-primary" onclick="registrar()">Registrar</button>
         <p class="mt-5 mb-3 text-muted">&copy; Hand Up by X-Women</p>
       </form>
   </main>
