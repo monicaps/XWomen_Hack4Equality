@@ -10,9 +10,9 @@
 _Puedes visitar Hand Up a través del siguiente enlace:_
 
 *
-_También puedes conocer un poco más acerca de HandUp en el sig. enlace:
+_También puedes conocer un poco más acerca de HandUp en el sig. enlace:_
 
-*[¿Qué es Hand Up?: Conce más sobre esta iniciativa](https://www.canva.com/design/DAExBavy0Ak/on21lI4Y70LZVbezNz0UAQ/view?utm_content=DAExBavy0Ak&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
+*[¿Qué es Hand Up? Conoce más sobre esta iniciativa](https://www.canva.com/design/DAExBavy0Ak/on21lI4Y70LZVbezNz0UAQ/view?utm_content=DAExBavy0Ak&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
 
 ## Herramientas de desarrollo 🛠️
 
